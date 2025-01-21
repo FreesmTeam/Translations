@@ -618,7 +618,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Войти через ayugram</translation>
+        <translation>Войти через Ayugram</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
